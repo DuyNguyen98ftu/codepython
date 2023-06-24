@@ -1,4 +1,4 @@
 SELECT *
 FROM product
 
-Where productID= 1100
+Where productID= 10
